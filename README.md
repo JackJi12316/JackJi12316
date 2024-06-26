@@ -1,4 +1,4 @@
-# Hello World! 
+# <center>Hello World! </center>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=linghu8812)
 
